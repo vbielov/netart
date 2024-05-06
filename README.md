@@ -1,2 +1,2 @@
 # netart
-My presentation website hosted by github
+My präsentation website hosted by github
